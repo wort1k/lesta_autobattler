@@ -195,3 +195,4 @@ D:\lesta_task\lesta_AutoBattler\obj\Release\net8.0\win-x64\refint\lesta_AutoBatt
 D:\lesta_task\lesta_AutoBattler\obj\Release\net8.0\win-x64\lesta_AutoBattler.pdb
 D:\lesta_task\lesta_AutoBattler\obj\Release\net8.0\win-x64\lesta_AutoBattler.genruntimeconfig.cache
 D:\lesta_task\lesta_AutoBattler\obj\Release\net8.0\win-x64\ref\lesta_AutoBattler.dll
+D:\lesta_task\lesta_AutoBattler\obj\Release\net8.0\win-x64\lesta_AutoBattler.sourcelink.json
