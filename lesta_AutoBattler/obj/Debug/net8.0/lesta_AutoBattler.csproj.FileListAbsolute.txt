@@ -1,0 +1,14 @@
+D:\lesta_task\lesta_AutoBattler\bin\Debug\net8.0\lesta_AutoBattler.exe
+D:\lesta_task\lesta_AutoBattler\bin\Debug\net8.0\lesta_AutoBattler.deps.json
+D:\lesta_task\lesta_AutoBattler\bin\Debug\net8.0\lesta_AutoBattler.runtimeconfig.json
+D:\lesta_task\lesta_AutoBattler\bin\Debug\net8.0\lesta_AutoBattler.dll
+D:\lesta_task\lesta_AutoBattler\bin\Debug\net8.0\lesta_AutoBattler.pdb
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.AssemblyInfoInputs.cache
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.AssemblyInfo.cs
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.csproj.CoreCompileInputs.cache
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.dll
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\refint\lesta_AutoBattler.dll
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.pdb
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\lesta_AutoBattler.genruntimeconfig.cache
+D:\lesta_task\lesta_AutoBattler\obj\Debug\net8.0\ref\lesta_AutoBattler.dll

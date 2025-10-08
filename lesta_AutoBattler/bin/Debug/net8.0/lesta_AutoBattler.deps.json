@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lesta_AutoBattler/1.0.0": {
+        "runtime": {
+          "lesta_AutoBattler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesta_AutoBattler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
